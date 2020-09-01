@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm software engineer focus on the back end applications. For my personal projects I use: Python, Go, Node.js, React. 
+I'm software engineer focus on the back end applications. 
+For my personal projects I use: 
+- Python
+- Go
+- Node.js
+- React
 
 
 <!--
