@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm software engineer focus on the back end applications. For my personal projects I use: Python, Go, Node.js, React. 
+
+
 <!--
 **Khan745/Khan745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
