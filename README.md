@@ -35,7 +35,7 @@ For my personal projects I use:
 <code><img height="50" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg"></code>
 <code><img height="50" src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg">
 <code><img height="50" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
-
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png"></code>
 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan745&layout=compact&hide=html" alt="khan745" /></p>
