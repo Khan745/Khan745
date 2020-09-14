@@ -9,32 +9,32 @@ For my personal projects I use:
 
 **Back-end**
 
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
+<code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
 
 **Front-end**
 
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg"></code>
 
 **Databases**
 
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg"></code>
 
 **Cloud Servers**
 
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
 
 **Tools**
 
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg">
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg">
+<code><img height="50" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
 
 
 </p>
