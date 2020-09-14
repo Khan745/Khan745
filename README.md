@@ -7,6 +7,7 @@ For my personal projects I use:
 - Node.js
 - React
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan745&show_icons=true&count_private=true" alt="mxschmitt" width="50%"/></p>
 
 <!--
 **Khan745/Khan745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
