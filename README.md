@@ -7,7 +7,38 @@ For my personal projects I use:
 - Node.js
 - React
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan745&layout=compact&hide=html" alt="khan745" /></p>
+**Back-end**
+
+<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"></code>
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
+
+**Front-end**
+
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg"></code>
+
+**Databases**
+
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg"></code>
+
+**Cloud Servers**
+
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
+
+**Tools**
+
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg"></code>
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg">
+<code><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
+
+
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan745&layout=compact&hide=html" alt="khan745" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan745&show_icons=true&count_private=true" alt="khan745" width="50%"/></p>
   
